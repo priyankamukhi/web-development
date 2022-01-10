@@ -1,0 +1,71 @@
+C:\projects\Test location\Test location\bin\Test location.dll.config
+C:\projects\Test location\Test location\bin\Test location.dll
+C:\projects\Test location\Test location\bin\Test location.pdb
+C:\projects\Test location\Test location\bin\roslyn\csc.exe
+C:\projects\Test location\Test location\bin\roslyn\csc.exe.config
+C:\projects\Test location\Test location\bin\roslyn\csc.rsp
+C:\projects\Test location\Test location\bin\roslyn\csi.exe
+C:\projects\Test location\Test location\bin\roslyn\csi.exe.config
+C:\projects\Test location\Test location\bin\roslyn\csi.rsp
+C:\projects\Test location\Test location\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\projects\Test location\Test location\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\projects\Test location\Test location\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\projects\Test location\Test location\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\projects\Test location\Test location\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\projects\Test location\Test location\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\projects\Test location\Test location\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\projects\Test location\Test location\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\projects\Test location\Test location\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\projects\Test location\Test location\bin\roslyn\Microsoft.Managed.Core.targets
+C:\projects\Test location\Test location\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\projects\Test location\Test location\bin\roslyn\System.AppContext.dll
+C:\projects\Test location\Test location\bin\roslyn\System.Collections.Immutable.dll
+C:\projects\Test location\Test location\bin\roslyn\System.Console.dll
+C:\projects\Test location\Test location\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\projects\Test location\Test location\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\projects\Test location\Test location\bin\roslyn\System.IO.Compression.dll
+C:\projects\Test location\Test location\bin\roslyn\System.IO.FileSystem.dll
+C:\projects\Test location\Test location\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\projects\Test location\Test location\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\projects\Test location\Test location\bin\roslyn\System.IO.Pipes.dll
+C:\projects\Test location\Test location\bin\roslyn\System.Reflection.Metadata.dll
+C:\projects\Test location\Test location\bin\roslyn\System.Security.AccessControl.dll
+C:\projects\Test location\Test location\bin\roslyn\System.Security.Claims.dll
+C:\projects\Test location\Test location\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\projects\Test location\Test location\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\projects\Test location\Test location\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\projects\Test location\Test location\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\projects\Test location\Test location\bin\roslyn\System.Security.Principal.Windows.dll
+C:\projects\Test location\Test location\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\projects\Test location\Test location\bin\roslyn\System.ValueTuple.dll
+C:\projects\Test location\Test location\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\projects\Test location\Test location\bin\roslyn\System.Xml.XmlDocument.dll
+C:\projects\Test location\Test location\bin\roslyn\System.Xml.XPath.dll
+C:\projects\Test location\Test location\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\projects\Test location\Test location\bin\roslyn\vbc.exe
+C:\projects\Test location\Test location\bin\roslyn\vbc.exe.config
+C:\projects\Test location\Test location\bin\roslyn\vbc.rsp
+C:\projects\Test location\Test location\bin\roslyn\VBCSCompiler.exe
+C:\projects\Test location\Test location\bin\roslyn\VBCSCompiler.exe.config
+C:\projects\Test location\Test location\bin\Antlr3.Runtime.dll
+C:\projects\Test location\Test location\bin\AspNet.ScriptManager.bootstrap.dll
+C:\projects\Test location\Test location\bin\AspNet.ScriptManager.jQuery.dll
+C:\projects\Test location\Test location\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\projects\Test location\Test location\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\projects\Test location\Test location\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\projects\Test location\Test location\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\projects\Test location\Test location\bin\Microsoft.ScriptManager.WebForms.dll
+C:\projects\Test location\Test location\bin\Microsoft.Web.Infrastructure.dll
+C:\projects\Test location\Test location\bin\Newtonsoft.Json.dll
+C:\projects\Test location\Test location\bin\System.Web.Optimization.dll
+C:\projects\Test location\Test location\bin\WebGrease.dll
+C:\projects\Test location\Test location\bin\System.Web.Optimization.xml
+C:\projects\Test location\Test location\bin\Newtonsoft.Json.xml
+C:\projects\Test location\Test location\bin\Antlr3.Runtime.pdb
+C:\projects\Test location\Test location\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\projects\Test location\Test location\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\projects\Test location\Test location\obj\Debug\Test location.csprojAssemblyReference.cache
+C:\projects\Test location\Test location\obj\Debug\Test location.csproj.CoreCompileInputs.cache
+C:\projects\Test location\Test location\obj\Debug\Test location.csproj.CopyComplete
+C:\projects\Test location\Test location\obj\Debug\Test location.dll
+C:\projects\Test location\Test location\obj\Debug\Test location.pdb
