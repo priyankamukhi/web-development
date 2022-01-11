@@ -25,8 +25,8 @@
             </div>            
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
             </asp:ContentPlaceHolder>
-             <div class="row" style="background:yellow;height:50px" >
-                <center><span>Footer</span></center>
+             <div class="row" style="background:red;height:50px" >
+                <center><span>&copy 2022</span></center>
             </div> 
         </div>
     </form>

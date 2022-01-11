@@ -3,7 +3,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div class="container">
-        <div class="row" style="border:2px solid black;height:300px;border-radius:15px">
+        <div class="row" style="border:2px solid black;height:500px;border-radius:15px">
             <br />
             <div class="row">
                 <div class="col-md-1"></div>
