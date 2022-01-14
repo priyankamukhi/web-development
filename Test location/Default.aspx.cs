@@ -87,7 +87,6 @@ namespace Test_location
                 }
                 
             }
-
             catch(Exception ex)
             {
                 throw ex;
@@ -96,6 +95,7 @@ namespace Test_location
             {
                 con.Close();
             }
+
         }
     }
 }

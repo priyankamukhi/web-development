@@ -58,6 +58,17 @@
                </center>  
               </div>
                 </div>
+            <meta charset="utf-8">
+            <table class="table table-bordered">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Email ID</th>
+        <th>Mobile No</th>
+        <th>Gender</th>
+        <th>Status</th>
+      </tr>
+    </thead>
         </div>
     </div>
 </asp:Content>
